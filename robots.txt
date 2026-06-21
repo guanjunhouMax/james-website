@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://guanjunhoumax.github.io/詹姆斯网站/sitemap.xml
+Sitemap: https://guanjunhoumax.github.io/james-website/sitemap.xml
